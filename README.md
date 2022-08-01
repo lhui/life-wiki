@@ -1,41 +1,5 @@
-# Website
+# Topic
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+The Wiki For My Learn Life (我的研习生活百科)
 
-### Installation
-
-```
-$ yarn
-```
-
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+写作，记录，提升与分享，一直以来是一个很热门的话题，似乎从远古时期到现在，我们一直是不断地学习，不断地继承已有的知识，进而不断的探索各个知识的边界，我很容幸能够学习到这么多的知识，我也很愿意将我学习的知识分享出来，与各位共同进步，我会尽最大努力保证输出的信息的准确性，但是和各位写书的人一样，可能难免会有一些瑕疵，如果您发现了有所困惑的地方，请放心大胆提Issue, 无论最终是否采取了您的意见，我都非常感谢你的阅读和付出。 记录于 2022-08-02
