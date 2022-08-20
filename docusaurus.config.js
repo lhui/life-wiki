@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'lihui learning space',
   tagline: 'learning is a wonderful thing.',
-  url: 'https://life-wiki.lihui.net',
+  url: 'https://wiki.lihui.net',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'lhui', // Usually your GitHub org/user name.
-  projectName: 'life-wiki', // Usually your repo name.
+  projectName: 'wiki', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'lihui life wiki',
+        title: 'lihui wiki',
         logo: {
           alt: 'lihui life wiki logo',
           src: 'img/logo.svg',
